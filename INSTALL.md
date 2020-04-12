@@ -1,4 +1,4 @@
-### [X](http://link-to-x.com)
+### [wofi](https://hg.sr.ht/~scoopta/wofi)
 
 #### Install using Git
 
@@ -12,6 +12,6 @@ Download using the [GitHub .zip download](https://github.com/dracula/template/ar
 
 #### Activating theme
 
-1. Do this
-2. Then that
+1. Go to ~/.config/wofi (or your appropriate config directory)
+2. `git clone git@github.com/elumbella/template . ` (the dot at the end is important)
 3. Boom! It's working
