@@ -1,12 +1,12 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [wofi](https://hg.sr.ht/~scoopta/wofi)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [wofi](https://hg.sr.ht/~scoopta/wofi).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/wofi](https://draculatheme.com/wofi).
 
 ## Team
 
