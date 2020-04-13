@@ -9,6 +9,7 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 #### Install manually
 
 Download using the [GitHub .zip download](https://github.com/dracula/wofi/archive/master.zip) option and unzip them.
+Place `stylesheet.css` in your `~/.config/wofi` directory.
 
 #### Activating theme
 
