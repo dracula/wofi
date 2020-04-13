@@ -11,9 +11,3 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 Download using the [GitHub .zip download](https://github.com/dracula/wofi/archive/master.zip) option and unzip them.
 Place `stylesheet.css` in your `~/.config/wofi` directory.
 
-#### Activating theme
-
-1. Go to `~/.config/wofi` (or your appropriate config directory)
-2. Move theme folder to `~/.config/wofi` directory
-3. Rename folder to `.` (the dot is important)
-3. Boom! It's working
