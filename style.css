@@ -30,6 +30,7 @@ border: none;
 #text {
 margin: 5px;
 border: none;
+color: #ffffff;
 } 
 
 #entry:selected {
