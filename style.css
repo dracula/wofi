@@ -7,6 +7,7 @@ background-color: #282a36;
 #input {
 margin: 5px;
 border: none;
+color: #f8f8f2;
 background-color: #44475a;
 }
 
@@ -30,7 +31,7 @@ border: none;
 #text {
 margin: 5px;
 border: none;
-color: #ffffff;
+color: #f8f8f2;
 } 
 
 #entry:selected {
